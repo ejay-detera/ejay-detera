@@ -7,7 +7,8 @@ Hi there! I'm **E-jay Detera**, a student at **Polytechnic University of the Phi
 ## 👨‍💻 About Me
 
 - 🎓 BSIT Student @ PUPQC  
-- 💻 I specialize in **Back-End Development**
+- 💻 I specialize in **Back-End Development and Front-End Development**
+- 💻 I want to be a Full-Stack Developer someday.
 - 🚀 Passionate about building dynamic, database-driven systems
 - 🎮 PC gamer, tech enthusiast, and hardware tinkerer
 
@@ -27,23 +28,6 @@ Hi there! I'm **E-jay Detera**, a student at **Polytechnic University of the Phi
 - **JavaScript**
 - **HTML & CSS**
 
-### 🧰 Tools & Technologies
-- **Visual Studio Code**
-- **Visual Studio**
-- **Git & GitHub**
-- **VirtualBox**
-- **FlutterFlow**
-- **Figma**
-- **Qt Designer Studio**
-
----
-
-## 🌱 Currently Learning
-- Advanced Laravel concepts
-- React & TypeScript
-- Deeper backend logic and app structuring
-- Improving problem-solving with Python
-
 ---
 
 ## 💡 Fun Fact
@@ -51,5 +35,3 @@ My **greatest trait** is my **adaptability** — I learn fast, adjust quickly to
 
 ---
 
-## 📫 Let’s Connect!
-Feel free to explore my repositories — most of them are case studies and mini-projects I’ve built throughout my college journey.
