@@ -1,16 +1,15 @@
-# 👋 Welcome to My GitHub!
+# 👋 Hi I'm E-jay Detera
 
-Hi there! I'm **E-jay Detera**, a student at **Polytechnic University of the Philippines, Quezon City**, currently taking up **BS Information Technology (BSIT)**. I'm focused on **upskilling in software development, web development**, and exploring various technologies that power modern applications.
+Currently a student at **Polytechnic University of the Philippines, Quezon City**, currently taking up **BS Information Technology (BSIT)**. I'm focused on **upskilling in software development, web development**, and exploring various technologies that power modern applications.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 BSIT Student @ PUPQC  
-- 💻 I specialize in **Back-End Development and Front-End Development**
-- 💻 I want to be a Full-Stack Developer someday.
-- 🚀 Passionate about building dynamic, database-driven systems
-- 🎮 PC gamer, tech enthusiast, and hardware tinkerer
+- 💻 I'm familar with **Back-End Development and Front-End Development**
+- 🚀 Passionate about building applications
+- 🎮 PC/Mobile gamer and a Tech enthusiast
 
 ---
 
@@ -32,6 +31,8 @@ Hi there! I'm **E-jay Detera**, a student at **Polytechnic University of the Phi
 
 ## 💡 Fun Fact
 My **greatest trait** is my **adaptability** — I learn fast, adjust quickly to different tools and environments, and enjoy tackling challenges head-on.
+
+⚠️ Note: I’m still gaining confidence in many of the tech stacks listed above. I’ve used them in school projects and self-study, and I’m constantly learning and improving!
 
 ---
 
