@@ -2,13 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+E-jay+Detera+%F0%9F%91%8B;BSIT+%40+PUPQC;Full-Stack+Developer;Always+learning%2C+always+improving.)](https://git.io/typing-svg)
 
-<sub>// BSIT @ Polytechnic University of the Philippines, Quezon City</sub>
+<sub> BSIT @ Polytechnic University of the Philippines, Quezon City</sub>
 
 </div>
 
 ---
-
-## 💜 Who Am I?
 
 - 🎓 3rd year **IT student** passionate about building systems
 - 💻 Familiar with both **front-end and back-end** development
@@ -58,14 +56,6 @@
 **Desktop**
 
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-
----
-
-## 💡 Fun Fact
-
-> My greatest trait is my **adaptability** — I learn fast, adjust quickly to different tools and environments, and enjoy tackling challenges head-on.
->
-> ⚠️ Still leveling up across these stacks through school projects and self-study. Always learning, always improving!
 
 ---
 
