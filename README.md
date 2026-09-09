@@ -8,10 +8,9 @@
 
 ---
 
-- 🎓 3rd year **IT student** passionate about building systems
+- 🎓 4th year **IT student** passionate about building systems
 - 💻 Familiar with both **front-end and back-end** development
 - 🚀 Focused on **scalable, real-world solutions**
-- 🔧 Exploring **microservices architecture** with Nginx
 - 🎮 PC/Mobile gamer and tech enthusiast
 
 ---
